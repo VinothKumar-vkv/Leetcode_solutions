@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Math
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
