@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
