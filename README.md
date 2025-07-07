@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
