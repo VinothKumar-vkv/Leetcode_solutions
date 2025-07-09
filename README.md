@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Trie
