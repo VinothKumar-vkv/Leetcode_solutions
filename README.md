@@ -117,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
