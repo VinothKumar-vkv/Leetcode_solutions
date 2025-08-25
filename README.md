@@ -145,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
