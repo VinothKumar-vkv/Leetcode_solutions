@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
