@@ -121,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
