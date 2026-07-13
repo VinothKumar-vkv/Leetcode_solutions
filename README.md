@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Binary Search
