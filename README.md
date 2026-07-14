@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
@@ -146,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
