@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
