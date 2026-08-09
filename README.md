@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0605-can-place-flowers](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
