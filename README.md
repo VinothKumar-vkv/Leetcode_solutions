@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
