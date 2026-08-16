@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -205,5 +206,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0605-can-place-flowers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/VinothKumar-vkv/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
